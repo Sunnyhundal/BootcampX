@@ -1,0 +1,1 @@
+SELECT cohorts count(id)
